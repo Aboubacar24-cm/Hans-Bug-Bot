@@ -8,15 +8,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237696900612"
-global.ownername = "*Hans Tech"
+global.ownernomer = "224660002740"
+global.ownername = "SUKUNA"
 global.ytname = "YT: HansTech0"
 global.socialm = ""
 global.location = "EARTH,AFRICA"
 
-global.ownernumber = '237696900612'  //creator number
-global.ownername = 'Harold MTH' //owner name
-global.botname = 'Hans-Bug-bot' //name of the bot
+global.ownernumber = '224660002740'  //creator number
+global.ownername = 'SUKUNA' //owner name
+global.botname = 'HOTEL DEMONIAQUE //name of the bot
 
 //sticker details
 global.packname = 'Sticker By Hans Tech'
